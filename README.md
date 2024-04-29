@@ -10,6 +10,7 @@ To design a web application for a standard calculator with minimum five operatio
 Clone the github repository and create Django admin interface.
 
 ### Step 2:
+
 Change settings.py file to allow request from all hosts.
 
 ### Step 3:
@@ -167,6 +168,9 @@ Publish the website in the given URL.
 
 
 ## OUTPUT:
+![Screenshot 2024-04-29 215449](https://github.com/KiranbalajiH/Calc/assets/149135475/6f40d71e-b2f8-4670-8c39-5f90912217ae)
+
+![Screenshot 2024-04-29 215434](https://github.com/KiranbalajiH/Calc/assets/149135475/e80c2802-c8b0-412b-8942-e3ecd27de038)
 
 ## RESULT:
 The program for designing a standard calculator using HTML and CSS is executed successfully.
